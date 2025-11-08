@@ -1,2 +1,0 @@
-# portal
-Optimizan portal
